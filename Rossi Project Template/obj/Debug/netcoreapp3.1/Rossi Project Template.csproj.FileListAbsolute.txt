@@ -1,0 +1,13 @@
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.csprojAssemblyReference.cache
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.AssemblyInfoInputs.cache
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.AssemblyInfo.cs
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.csproj.CoreCompileInputs.cache
+C:\Users\conya\source\repos\Rossi Project Template\bin\Debug\netcoreapp3.1\Rossi Project Template.exe
+C:\Users\conya\source\repos\Rossi Project Template\bin\Debug\netcoreapp3.1\Rossi Project Template.deps.json
+C:\Users\conya\source\repos\Rossi Project Template\bin\Debug\netcoreapp3.1\Rossi Project Template.runtimeconfig.json
+C:\Users\conya\source\repos\Rossi Project Template\bin\Debug\netcoreapp3.1\Rossi Project Template.runtimeconfig.dev.json
+C:\Users\conya\source\repos\Rossi Project Template\bin\Debug\netcoreapp3.1\Rossi Project Template.dll
+C:\Users\conya\source\repos\Rossi Project Template\bin\Debug\netcoreapp3.1\Rossi Project Template.pdb
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.dll
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.pdb
+C:\Users\conya\source\repos\Rossi Project Template\obj\Debug\netcoreapp3.1\Rossi Project Template.genruntimeconfig.cache
